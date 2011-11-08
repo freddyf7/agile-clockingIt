@@ -134,4 +134,4 @@ NOTA: Juggernaut funciona con el puerto 8080, estar antentos para evitar bloqueo
 A los desarrolladores interesados en descargar esta versión y continuar con el trabajo para realizar mejoras, se pueden encontrar los diagramas de
 arquitectura, diseño y dominio de la herramienta en: https://github.com/gbarcia/agile-clockingIt/wiki/Diagramas-de-Arquitectura-y-Diseño
 
-
+Prueba: Freddy Florenca
